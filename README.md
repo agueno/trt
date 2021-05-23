@@ -1,1 +1,3 @@
-# trt
+# maven-project
+
+Simple Maven Project
